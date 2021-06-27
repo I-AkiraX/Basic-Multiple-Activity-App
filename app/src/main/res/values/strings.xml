@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultipleActivity</string>
+    <string name="number"><![CDATA[Numbers]]></string>
+</resources>
